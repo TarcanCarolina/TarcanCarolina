@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TarcanCarolina.
+- 👋 Hi, I’m Carolina.
 - 👀 I’m interested in everything that touches Java.
 - 🌱 I’m currently learning how to write a clean code and in best practices techniques.
 - 💞️ I’m looking to collaborate on ...
